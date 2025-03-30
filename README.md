@@ -22,22 +22,3 @@
 
 ---
 
-## 🌱 O que estou aprendendo
-- **📊 Análise de Dados com Python e SQL**  
-- **💻 Desenvolvimento Back-End com foco em APIs**  
-- **🔍 Análise Exploratória de Dados (EDA)**  
-- **📘 Cálculo e Matemática Discreta**
-
----
-
-## 🚀 Objetivos Futuros
-- 💼 Tornar-me **Analista de Dados** e, futuramente, **Engenheiro de Dados**  
-- 🤝 Colaborar em projetos open source para crescimento da comunidade  
-- 🌟 Continuar aprendendo e compartilhando conhecimento na área de tecnologia
-
----
-
-### 🌟 Citação Inspiradora
-> **"O sucesso é a soma de pequenos esforços repetidos dia após dia."**  
-> - Robert Collier
-
