@@ -1,18 +1,27 @@
-# 👋 Olá! Eu sou o Aldrey Sandre  
+# 👋 Hi! I'm Aldrey Sandre  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldrey-sandre-ab30671a3/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldrey_sandree) [![Lattes](https://img.shields.io/badge/Lattes-4A90E2?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/0027669878285239)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldrey_sandree) 
+[![Lattes](https://img.shields.io/badge/Lattes-4A90E2?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/0027669878285239)
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 My Statistics
 
 ![Aldrey Sandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-AldreySandre&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AldreySandre&layout=compact&card_width=500&theme=tokyonight)
 
 ---
 
-## 🛠️ Tecnologias que uso no meu dia a dia
+## 🎯 My Interests
+
+- Artificial Intelligence and Machine Learning  
+- Data Science and Statistical Analysis  
+- Automation
+
+---
+
+## 🛠️ Technologies I use daily
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
@@ -32,11 +41,11 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=Chainlink&logoColor=white" /></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-FF5E00?style=for-the-badge&logo=n8n&logoColor=white" /></a>
 </p>
 
-###
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Beertoni/snake/main/github-contribution-grid-snake.svg" alt="Snake animation GitHub contributions" />
 </p>
-
-###
