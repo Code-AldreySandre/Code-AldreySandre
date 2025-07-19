@@ -35,8 +35,8 @@
 </p>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Beertoni/snake/main/github-contribution-grid-snake.svg" alt="Snake animation GitHub contributions" />
+</p>
 
 ###
