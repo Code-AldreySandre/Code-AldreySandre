@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner para Linkedin Tecnologia Abstrato Azul e Branco (3).png" alt="Banner de apresentação" width="100%">
+</p>
+
 # 👋 Hi! I'm Aldrey Sandre  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldrey-sandre-ab30671a3/) 
