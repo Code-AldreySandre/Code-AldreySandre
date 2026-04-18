@@ -5,7 +5,7 @@ My work focuses on Artificial Intelligence and Data Science, specifically:
 
 - Machine Learning & LLMs
 - Natural Language Processing (NLP)
-- Database Processing
+- Database Processing & Cloud computing
    
 I am passionate about building solutions for the Brazilian educational domain to promote the public good.
 
