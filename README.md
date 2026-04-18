@@ -12,4 +12,4 @@ I am passionate about building solutions for the Brazilian educational domain to
 ---
 ☕ Let's connect! 
 
-I'm always down for a coffee to talk about **computational intelligence**, **software development**, and—most importantly, **geek culture**. 🫰
+I'm always down for a coffee to talk about **computational intelligence**, **software development**, and most importantly, **geek culture**. 🫰
